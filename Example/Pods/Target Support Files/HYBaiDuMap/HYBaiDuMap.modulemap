@@ -1,0 +1,6 @@
+framework module HYBaiDuMap {
+  umbrella header "HYBaiDuMap-umbrella.h"
+
+  export *
+  module * { export * }
+}

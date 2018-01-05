@@ -1,0 +1,6 @@
+framework module Pods_HYBaiDuMap_Tests {
+  umbrella header "Pods-HYBaiDuMap_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
